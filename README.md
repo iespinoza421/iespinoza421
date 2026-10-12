@@ -4,7 +4,7 @@
 
 I build data-driven solutions using **Python, SQL, and Power BI**, combining analytical thinking with software engineering skills to transform raw data into practical insights.
 
-Based in Costa Rica 🇨🇷 | Computer Systems Engineering
+Based in Costa Rica | Computer Systems Engineering
 
 ---
 
